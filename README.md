@@ -1,6 +1,8 @@
 # Proyecto Mongo de TalentoTech
+Este es el frontend del proyecto desarrollado con MongoDB y React
+## Notas:
 
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
