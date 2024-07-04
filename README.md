@@ -1,5 +1,7 @@
 # Proyecto Mongo de TalentoTech
+
 Este es el frontend del proyecto desarrollado con MongoDB y React
+
 ## Notas:
 
 ### React + Vite
